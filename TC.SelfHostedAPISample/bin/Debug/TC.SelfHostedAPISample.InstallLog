@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.InstallLog
+   assemblypath = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe assembly.
+Committing assembly 'C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.InstallLog
+   assemblypath = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.InstallLog
+   assemblypath = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.InstallLog
+   assemblypath = C:\Users\pooja\source\repos\TC.SelfHostedAPISample\TC.SelfHostedAPISample\bin\Debug\TC.SelfHostedAPISample.exe
